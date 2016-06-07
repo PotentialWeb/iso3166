@@ -26,6 +26,6 @@ func main() {
 
 ```shell
 gb is alpha2
-foo is no alpha2
+foo is not alpha2
 ```
 
