@@ -1,11 +1,10 @@
-package iso3166
+package alpha2
 
 import "strings"
 
 var Alpha2 = make(map[string]string)
 
 func init() {
-	Alpha2 = make(map[string]string)
 	Alpha2["AF"] = "Afghanistan"
 	Alpha2["AX"] = "Åland Islands"
 	Alpha2["AL"] = "Albania"
