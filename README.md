@@ -1,6 +1,7 @@
 # Country Codes
 
-http://data.okfn.org/data/core/country-list
+- http://data.okfn.org/data/core/country-list
+- https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes
 
 ```go
 package main
